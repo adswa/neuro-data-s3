@@ -1,1 +1,1 @@
-b6c2bbb7-e08f-4285-b362-ed0631e041dd autoenable=true bucket=sample-neurodata-public2 datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1621927649.133794249s
+b6c2bbb7-e08f-4285-b362-ed0631e041dd autoenable=true bucket=sample-neurodata-public2 datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes publicurl=https://sample-neurodata-public2.s3-eu-west-1.amazonaws.com storageclass=STANDARD type=S3 timestamp=1621928405.275368989s
